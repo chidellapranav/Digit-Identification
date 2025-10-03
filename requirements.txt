@@ -1,0 +1,7 @@
+Pillow
+google-colab
+numpy
+opencv-python
+torch
+torchvision
+ultralytics
